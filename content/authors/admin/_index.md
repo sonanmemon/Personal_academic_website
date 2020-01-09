@@ -3,7 +3,7 @@
 name: Zhexin Shen
 
 # Username (this should match the folder name)
-authors: jeffery4011
+authors:
 - admin
 
 # Is this the primary user of the site?
