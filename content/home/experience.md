@@ -18,27 +18,35 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Assistant"
+  company = "College of Aeronautics and Engineering ,Kent State University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Kent Ohio, USA"
+  date_start = "2019-07-04"
+  date_end = "2019-09-01"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Worked as a Research Assistant in Project "Safety-Aware UAV-UGV Teaming for Ground Target Tracking" in Cognitive Robotics and AI Lab(CRAI).
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Visting Student"
+  company = "School of Physics and Astronomy ,Shanghai Jiao Tong University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Shanghai, China"
+  date_start = "2019-01-04"
+  date_end = ""
+  description = """
+  Worked as a team member in Project "Simulating collective motion with kilobots" in Zhang's Fluid and biological physics lab.
+  """
+[[experience]]
+  title = "Research Assistant"
+  company = "School of Physics and Electronic Science, East China Normal University"
+  company_url = ""
+  location = "Shanghai, China"
+  date_start = "2018-10-08"
+  date_end = "2019-10-21"
+  description = """
+  Researched and applied coincidence photon-counting laser ranging technique on drawing trajectory of a satellite.
+  """  
 
 +++
