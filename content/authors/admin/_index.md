@@ -40,7 +40,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jefferyshen1015@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
+# - icon: weixin
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
 # - icon: google-scholar
