@@ -24,7 +24,7 @@ subtitle = ""
   icon = "robot"
   icon_pack = "fas"
   name = "Robotics"
-  description = "Common swarm control algorithms &#10; ROS, Gazebo"
+  description = "Common swarm control algorithms \newline ROS, Gazebo"
   
 [[feature]]
   icon = "desktop"
