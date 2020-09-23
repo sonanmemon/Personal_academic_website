@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Visting Student"
+  title = "Research Assistant"
   company = "School of Physics and Astronomy ,Shanghai Jiao Tong University"
   company_url = ""
   location = "Shanghai, China"
