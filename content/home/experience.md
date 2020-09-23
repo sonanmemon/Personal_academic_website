@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-07-04"
   date_end = "2019-09-01"
   description = """
-  Worked as a Research Assistant in Project "Safety-Aware UAV-UGV Teaming for Ground Target Tracking" in Cognitive Robotics and AI Lab(CRAI).
+  Worked as a Research Assistant in Project "Proficiency  Aware  Multi-Agent  Actor-Critic  for  Mixed  Aerial  andGround  Robot  Teaming" in Cognitive Robotics and AI Lab(CRAI),Advised by Assistant Professor Rui Liu.
   """
 
 [[experience]]
