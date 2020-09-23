@@ -22,12 +22,12 @@ subtitle = ""
   filter_default = 0
   
   # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+     name = "All"
+     tag = "*"
   
   # [[content.filter_button]]
-     name = "Satellite Laser Ranging"
-     tag = "Satellite Laser Ranging"
+  #   name = "Satellite Laser Ranging"
+  #   tag = "Satellite Laser Ranging"
   
   # [[content.filter_button]]
   #   name = "Other"
