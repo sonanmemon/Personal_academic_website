@@ -98,8 +98,8 @@ coordinates = {latitude = "31.032949", longitude = "121.457535"}
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "https://join.skype.com/invite/yuugTK8FS8hZ"},
-  {icon = "Zoom", icon_pack = "fab", name = "Meeting on Zoom", link = "https://us04web.zoom.us/j/4138787379?pwd=NFEvekw0RC9ldWx2Tjh3RFhXUUdVQT09"},
-  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+  {icon = "video", icon_pack = "fas", name = "Meeting on Zoom", link = "https://us04web.zoom.us/j/4138787379?pwd=NFEvekw0RC9ldWx2Tjh3RFhXUUdVQT09"},
+  {icon = "weixin", icon_pack = "fab", name = "Meeting on Zoom", link = files/wechat.jpg}
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
