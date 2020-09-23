@@ -15,7 +15,7 @@ role: Undergraduate Student of Physics
 # Organizations/Affiliations
 organizations:
 - name: East China Normal University
-  url: ""
+  url: "https://www.ecnu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Collective Motions and Swarm Intelligence.
