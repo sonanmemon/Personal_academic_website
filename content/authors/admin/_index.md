@@ -23,7 +23,7 @@ bio: My research interests include Collective Motions and Swarm Intelligence.
 interests:
 - Swarming Dynamic
 - Multi-robots System
-- Collective Motions.
+- Collective Motions
 
 education:
   courses:
@@ -67,6 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Zhexin Shen is an undergraduate student major in Physics at East China Normal University. His research interest includes Swarming Dynamic, Multi-robots System and Collective Motions. 
