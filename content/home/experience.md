@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-07-04"
   date_end = "2019-09-01"
   description = """
-  Worked as a Research Assistant in Project "Proficiency  Aware  Multi-Agent  Actor-Critic  for  Mixed  Aerial  andGround  Robot  Teaming" in Cognitive Robotics and AI Lab(CRAI),Advised by Assistant Professor Rui Liu.
+  Worked as a Research Assistant in Project "Proficiency Aware Multi-Agent Actor-Critic for Mixed Aerial and Ground Robot Teaming" in Cognitive Robotics and AI Lab(CRAI), advised by Assistant Professor Rui Liu.
   """
 
 [[experience]]
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   date_start = "2019-01-04"
   date_end = ""
   description = """
-  Worked as a team member in Project "Simulating collective motion with kilobots" in Zhang's Fluid and biological physics lab.
+  Worked as a research assistant in Project "Simulating collective motion with kilobots" in Zhang's Fluid and biological physics lab, advised by Professor Hepeng Zhang.
   """
 [[experience]]
   title = "Research Assistant"
@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   date_start = "2018-10-08"
   date_end = "2019-10-21"
   description = """
-  Researched and applied coincidence photon-counting laser ranging technique on drawing trajectory of a satellite.
+  Researched and applied coincidence photon-counting laser ranging technique on drawing trajectory of a satellite, advised by Professor Guang Wu.
   """  
 
 +++
