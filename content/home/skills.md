@@ -18,13 +18,13 @@ subtitle = ""
   icon = "brain"
   icon_pack = "fas"
   name = "AI"
-  description = "Common machine learning algorthims, deep learning architectures(CNN), RL algorithms"
+  description = "Common machine learning algorthims, deep learning architectures(CNN), RL algorithms; Pytorch, Matlab"
   
 [[feature]]
   icon = "robot"
   icon_pack = "fas"
   name = "Robotics"
-  description = "Common swarm control algorithms                 ROS, Gazebo"
+  description = "Common swarm control algorithms; ROS, Gazebo"
   
 [[feature]]
   icon = "desktop"
