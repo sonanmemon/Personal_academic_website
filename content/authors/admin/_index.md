@@ -40,15 +40,17 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jefferyshen1015@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-# - icon: weixin
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-# - icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+
+
 - icon: github
   icon_pack: fab
   link: https://github.com/jeffery4011
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Zhexin_Shen
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/%E5%93%B2%E6%AC%A3-%E6%B2%88-61a5841a0/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
