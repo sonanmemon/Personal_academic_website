@@ -30,7 +30,7 @@ education:
 
   - course: BSc in Phyisics
     institution: East China Normal University
-    year: 2020
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
