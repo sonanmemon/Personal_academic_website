@@ -21,10 +21,10 @@ subtitle = ""
   description = "90%"
   
 [[feature]]
-  icon = "python"
+  icon = "r-project"
   icon_pack = "fab"
-  name = "Python"
-  description = "80%
+  name = "R"
+  description = "90%"
   
 [[feature]]
   icon = "camera-retro"
