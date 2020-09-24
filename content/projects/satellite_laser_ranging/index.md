@@ -10,6 +10,8 @@ comments: false  # Show comments?
 
 image_preview: "Laser Ranging.jpg"
 
+external_link: "https://faculty.ecnu.edu.cn/_s29/wg2/main.psp"
+
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
