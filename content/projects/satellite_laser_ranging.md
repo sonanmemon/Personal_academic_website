@@ -11,5 +11,6 @@ comments: false  # Show comments?
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
-  image: "Laser Ranging.jpg"
+  image: ""
 ---
+{{< figure src="Laser Ranging.jpg" title="Laser Ranging" >}}
