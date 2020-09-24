@@ -11,5 +11,5 @@ comments: false  # Show comments?
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
-  image: "img/Laser Ranging.jpg"
+  image: "static/img/Laser Ranging.jpg"
 ---
