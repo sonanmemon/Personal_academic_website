@@ -18,8 +18,7 @@ subtitle = ""
   icon = "brain"
   icon_pack = "fas"
   name = "AI"
-  description = "Common machine learning algorthims, deep learning architectures(CNN), RL algorithms"
-  description = "Pytorch, Matlab"
+  description = "Common machine learning algorthims, deep learning architectures(CNN), RL algorithms; Pytorch, Matlab"
   
 [[feature]]
   icon = "robot"
