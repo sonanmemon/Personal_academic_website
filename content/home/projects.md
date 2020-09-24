@@ -21,17 +21,25 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
+  [[content.filter_button]]
      name = "All"
      tag = "*"
+     
+  [[content.filter_button]]
+     name = "Mixed Cooperation"
+     tag = "Mixed Cooperation"
+
+  [[content.filter_button]]
+     name = "Swarming"
+     tag = "Swarming"
+     
+  [[content.filter_button]]
+     name = "Laser Ranging"
+     tag = "Laser Ranging"
+     
+     
   
-  # [[content.filter_button]]
-  #   name = "Satellite Laser Ranging"
-  #   tag = "Satellite Laser Ranging"
-  
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -47,10 +55,7 @@ subtitle = ""
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
   
-  [[main]]
-  name = "Satellite Laser Ranging"  # A link title for your page.
-  url = "/projects/satellite_laser_ranging/"  # The URL of your page.
-  weight = 50  # The position of your page in the menu.
+
 
 [design.background]
   # Apply a background color, gradient, or image.
