@@ -12,4 +12,3 @@ header:
   caption: ""
   image: "Laser Ranging.jpg"
 ---
-{{< figure src="Laser Ranging.jpg" title="Laser Ranging" >}}
