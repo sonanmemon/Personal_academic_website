@@ -26,24 +26,18 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Data"
-    tag = "data"
+    name = "Mixed Cooperation"
+    tag = "Mixed Cooperation"
   
   [[content.filter_button]]
-    name = "Political Communication"
-    tag = "political-communication"
+    name = "Swarming"
+    tag = "Swarming"
     
   [[content.filter_button]]
-    name = "R"
-    tag = "R"
+    name = "Laser Ranging"
+    tag = "Laser Ranging"
     
-  [[content.filter_button]]
-    name = "Social Democracy"
-    tag = "social-democracy"
-    
-  [[content.filter_button]]
-    name = "Risk"
-    tag = "risk"
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
