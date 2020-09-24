@@ -22,24 +22,28 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-     name = "All"
-     tag = "*"
-     
-  [[content.filter_button]]
-     name = "Mixed Cooperation"
-     tag = "Mixed Cooperation"
-
-  [[content.filter_button]]
-     name = "Swarming"
-     tag = "Swarming"
-     
-  [[content.filter_button]]
-     name = "Laser Ranging"
-     tag = "Laser Ranging"
-     
-     
+    name = "All"
+    tag = "*"
   
-
+  [[content.filter_button]]
+    name = "Data"
+    tag = "data"
+  
+  [[content.filter_button]]
+    name = "Political Communication"
+    tag = "political-communication"
+    
+  [[content.filter_button]]
+    name = "R"
+    tag = "R"
+    
+  [[content.filter_button]]
+    name = "Social Democracy"
+    tag = "social-democracy"
+    
+  [[content.filter_button]]
+    name = "Risk"
+    tag = "risk"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -54,8 +58,6 @@ subtitle = ""
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
-  
-
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -66,9 +68,9 @@ subtitle = ""
   # Background color.
   # color = "navy"
   
- # Background gradient.
- #  gradient_start = "DeepSkyBlue"
- #  gradient_end = "SkyBlue"
+  # Background gradient.
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
