@@ -46,6 +46,11 @@ subtitle = ""
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
+  
+  [[main]]
+  name = "Satellite Laser Ranging"  # A link title for your page.
+  url = "/projects/satellite_laser_ranging/"  # The URL of your page.
+  weight = 50  # The position of your page in the menu.
 
 [design.background]
   # Apply a background color, gradient, or image.
