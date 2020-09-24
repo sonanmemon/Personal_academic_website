@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Publication
 
 # View.
 #   1 = List
