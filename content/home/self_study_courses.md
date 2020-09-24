@@ -34,6 +34,6 @@ date_format = "Jan 2006"
   url = "https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG"
   date_start = "2020-07-12"
   date_end = "2020-07-28"
-  description = "This series is all about neural network programming and PyTorch. <br> (i) Basics of PyTorch and CUDA and understand why neural networks use GPUs. <br> (ii) Tensor fundamentals needed for understanding deep learning before diving into neural network architecture. <br> (iii) Details of training a network, analyzing results, tuning hyperparameters, and using TensorBoard with PyTorch for visual analytics."
+  description = "This series is all about neural network programming and PyTorch. <br>  &nbsp; &nbsp; (i) Basics of PyTorch and CUDA and understand why neural networks use GPUs. <br>  &nbsp; &nbsp; (ii) Tensor fundamentals needed for understanding deep learning before diving into neural network architecture. <br>  &nbsp; &nbsp; (iii) Details of training a network, analyzing results, tuning hyperparameters, and using TensorBoard with PyTorch for visual analytics."
   
 +++
